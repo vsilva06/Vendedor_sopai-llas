@@ -34,24 +34,24 @@ public class Sopaipilla {
         }
     }
 
-    public void listo() {
-        System.out.println("Listas para vender");
+    public boolean listo() {
+       // System.out.println("Listas para vender");
         this.estado = true;
+        return true;
     }
 
-    public void cocinando() {
-        System.out.println("!Cocinando¡");
+    public boolean cocinando() {
+       // System.out.println("!Cocinando¡");
         this.estado = false;
+        return false;
     }
 
-    public void crudo() {
-        System.out.println("Sopaipilla cruda");
+    public boolean crudo() {
+       // System.out.println("Sopaipilla cruda");
         this.estado = false;
+        return false;
     }
 
-    public boolean isEstado() {
-        return estado;
-    }
 
     public void setEstado(boolean estado) {
         this.estado = estado;
