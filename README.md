@@ -12,27 +12,27 @@
 <tr>
 <td>Vendedor</td>
 <td>
-*Nombre: String 
-*Sopaipilla: ArrayList<Sopaipilla>  
-*Caja: ArrayList<Caja>
+*   Nombre: String 
+*   Sopaipilla: ArrayList<Sopaipilla>  
+*   Caja: ArrayList<Caja>
 </td>
 <td></td>
 </tr>
 <tr>
 <td>Sopaipilla</td>
 <td>
-*tipo: Sting
-*precio: int
-*estado: boolean
+*   tipo: Sting
+*   precio: int
+*   estado: boolean
 </td>
 <td>
-*cruda()
+*   cruda()
     estado: boolean
-*cocinando()
+*   cocinando()
     estado: boolean
-*lista()
+*   lista()
     estado: boolean
-*tamaño()
+*   tamaño()
     tipo: String
     precio: int
 </td>
