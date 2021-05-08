@@ -21,8 +21,10 @@
 <tr>
 <td>Sopaipilla</td>
 <td>
-- tipo: Sting
+tipo: Sting
+<br>
 precio: int
+<br>
 estado: boolean
 </td>
 <td>
