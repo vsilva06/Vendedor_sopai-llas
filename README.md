@@ -1,35 +1,49 @@
 # Vendedor sopaillas
 
 <header>
-<h1>Vendedor</h1>
+<body>
+<table> 
+<tbody>
+<tr>
+<td>Clase</td>
+<td>Atributo</td>
+<td>Metodo</td>
+</tr>
+<tr>
+<td>Vendedor</td>
+<td>
+*Nombre: String 
+*Sopaipilla: ArrayList<Sopaipilla>  
+*Caja: ArrayList<Caja>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Sopaipilla</td>
+<td>
+*tipo: Sting
+*precio: int
+*estado: boolean
+</td>
+<td>
+*cruda()
+    estado: boolean
+*cocinando()
+    estado: boolean
+*lista()
+    estado: boolean
+*tamaño()
+    tipo: String
+    precio: int
+</td>
+</tr>
+</tbody>
+</table>
 
-    
-        Nombre: String
-        Sopaipilla: ArrayList <Sopaipilla> 
-        Caja: ArrayList <Caja>
-    
-
-<h1>Sopaipilla</h1>
-
-    
-        tipo: String
-        precio: int
-    
-    
-<h2>Metodos</h2>
-    
-        Cruda: boolean
-        Cocinando: boolean
-        lista: boolean
-    
-<h1>Caja</h1>
-    Monto: int
-
-
-
-
-
-
-
+</body>
 
 </header>
+
+
+
+
