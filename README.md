@@ -34,12 +34,14 @@ estado: boolean
 cruda() <br>
     estado: boolean <br>
 cocinando() <br>
-    estado: boolean <br>
+    <li>estado: boolean </li>
+<br>
 lista()<br>
-    estado: boolean<br>
+    <li>estado: boolean</li>
+<br>
 tamaño()<br>
-    tipo: String<br>
-    precio: int
+    <li>tipo: String</li>
+    <li>precio: int</li>
 </td>
 </tr>
 <tr>
