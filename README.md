@@ -21,9 +21,9 @@
 <tr>
 <td>Sopaipilla</td>
 <td>
-*   tipo: Sting
-*   precio: int
-*   estado: boolean
+- tipo: Sting
+precio: int
+estado: boolean
 </td>
 <td>
 *   cruda()
