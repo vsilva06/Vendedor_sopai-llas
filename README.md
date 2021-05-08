@@ -14,9 +14,9 @@
 <td>
 Nombre: String 
 <br>
-Sopaipilla: ArrayList(Sopaipilla)
+Sopaipilla: ArrayList (Sopaipilla)
 <br>
-Caja: ArrayList(Caja)
+Caja: ArrayList (Caja)
 <br>
 </td>
 <td></td>
@@ -31,16 +31,21 @@ precio: int
 estado: boolean
 </td>
 <td>
-*   cruda()
-    estado: boolean
-*   cocinando()
-    estado: boolean
-*   lista()
-    estado: boolean
-*   tamaño()
-    tipo: String
+cruda() <br>
+    estado: boolean <br>
+cocinando() <br>
+    estado: boolean <br>
+lista()<br>
+    estado: boolean<br>
+tamaño()<br>
+    tipo: String<br>
     precio: int
 </td>
+</tr>
+<tr>
+<td>Caja</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
