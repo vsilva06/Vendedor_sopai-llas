@@ -14,9 +14,9 @@
 <td>
 Nombre: String 
 <br>
-Sopaipilla: ArrayList<Sopaipilla>
+Sopaipilla: ArrayList(Sopaipilla)
 <br>
-Caja: ArrayList<Caja>
+Caja: ArrayList(Caja)
 <br>
 </td>
 <td></td>
