@@ -12,9 +12,12 @@
 <tr>
 <td>Vendedor</td>
 <td>
-*   Nombre: String 
-*   Sopaipilla: ArrayList<Sopaipilla>  
-*   Caja: ArrayList<Caja>
+Nombre: String 
+<br>
+Sopaipilla: ArrayList<Sopaipilla>
+<br>
+Caja: ArrayList<Caja>
+<br>
 </td>
 <td></td>
 </tr>
