@@ -31,16 +31,13 @@ precio: int
 estado: boolean
 </td>
 <td>
-cruda() <br>
+cruda()
    <li>estado: boolean </li>
-<br>
-cocinando() <br>
+cocinando() 
     <li>estado: boolean </li>
-<br>
-lista()<br>
+lista()
     <li>estado: boolean</li>
-<br>
-tamaño()<br>
+tamaño()
     <li>tipo: String</li>
     <li>precio: int</li>
 </td>
