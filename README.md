@@ -11,10 +11,10 @@
 
 <h1>Sopaipilla</h1>
 
-    <p>
+    
         tipo: String
         precio: int
-    </p>
+    
     
 <h2>Metodos</h2>
     <p>
