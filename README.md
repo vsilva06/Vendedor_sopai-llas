@@ -32,7 +32,8 @@ estado: boolean
 </td>
 <td>
 cruda() <br>
-    estado: boolean <br>
+   <li>estado: boolean </li>
+<br>
 cocinando() <br>
     <li>estado: boolean </li>
 <br>
